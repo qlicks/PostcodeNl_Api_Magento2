@@ -4,7 +4,7 @@ namespace Flekto\Postcode\Block\System\Config\Form\Field;
 
 use Magento\Framework\Data\Form\Element\AbstractElement;
 
-class ReadOnly extends \Magento\Config\Block\System\Config\Form\Field
+class ReadOnly1 extends \Magento\Config\Block\System\Config\Form\Field
 {
 
     /**
